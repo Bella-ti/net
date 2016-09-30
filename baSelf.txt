@@ -1,0 +1,92 @@
+10.35.165.59
+
+
+清除浮动;
+:after{
+	clear:both;
+	content:"";
+	display;block;
+	height:0;
+	overflow:hidden;
+	visibility:hidden;
+}
+
+https://www.zhihu.com/question/19568008
+1、生成往网站上面的图标    http://www.bitbug.net/
+2、配色表  http://tool.c7sky.com/webcolor/#character_0
+3、博客园   http://www.cnblogs.com 
+
+/
+4、网站分析在中国 http://www.chinawebanalytics.cn/
+5、  http://zuiniuwang.blog.51cto.com/3709988/1547119
+6、移动端js库   http://touch.code.baidu.com/examples.html
+7、W3C音视频  http://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp
+8、MiniUI 在线实例  http://miniui.com/demo/#src=datagrid/celledit.html
+9 阮一峰博客   http://www.ruanyifeng.com/blog/
+10、spritePad雪碧图自动生成   http://wearekiss.com/spritepad
+11、随机生成二维码   http://qr.jibaoku.com/
+12、查询IP地址  http://www.ip138.com/
+13、swiper  http://www.swiper.com.cn/api/index.html
+
+14、css的animate   http://www.dowebok.com/demo/2014/98/
+
+15、D3的网上地址<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+16、学习D3的网站   http://d3.decembercafe.org/pages/lessons/3.html
+
+17、各种网址
+http://note.youdao.com/yws/public/redirect/share?id=05ed6d379e9b6b0933f267e98216a280&type=false
+
+xi群规-v1.0
+http://note.youdao.com/yws/public/redirect/share?id=42d256501a32695754143de152051349&type=false
+
+http状态码有那些？分别代表是什么意思？
+http://note.youdao.com/yws/public/redirect/share?id=ea2f05c236f229975c50baef877c11b3&type=false
+18、http://www.rabbitpre.com/store?filter=%7B%22search%22%3A%22%E5%81%A5%E8%BA%AB%22%7D
+
+19、iscroll.js的API     http://www.360doc.com/content/14/0724/11/16276861_396699901.shtml
+20 http://www.shejidaren.com/?p=26652&preview=true
+21、打字效果   http://www.mattboldt.com/demos/typed-js/
+               http://www.shejidaren.com/?p=26652&preview=true
+22、瀑布流  http://www.cnblogs.com/ghost-xyx/p/4916754.html
+
+23 瀑布流  http://www.dawnfly.cn/article-1-250.html,
+http://my.jikexueyuan.com/iwen/record/
+24、sublime    http://www.imjeff.cn/blog/146/
+http://www.w3cfuns.com/notes/16346/fd95a048804a1c5e7c816cb805a5aa5c.html
+http://www.oschina.net/translate/20-powerful-sublimetext-plugins
+http://www.cnblogs.com/zhcncn/p/4113589.html
+25、阮银凤http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html
+
+26sublime的使用   http://www.zhihu.com/question/37342465
+
+27、中国前端社区  http://www.w3ctech.com/topic/1670
+
+
+http://www.cr173.com/html/3917_1.html
+28、稀土网  https://xituqu.com/
+29、掘金网  http://e.xitu.io/
+30 前端内容  https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
+31 css模拟   http://www.layerstyles.org/builder.html
+32   http://www.csdn.net/article/2013-06-24/2815973-17-Best-CSS-Tools-to-Speed-Up-Your-Coding
+33、前端优秀的网站  {
+    (1)、http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html
+    (2)、https://www.awesomes.cn/rank
+    (3)、https://helloqingfeng.github.io/front-end-index/index.html
+    (4)、https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
+    (5)、http://www.open-open.com/lib/view/open1389755992633.html
+
+}  
+34代码优化指南  http://www.cnblogs.com/huyong/p/5018380.html
+
+
+35、three.js教程  https://github.com/mrdoob/three.js
+     webGL:       http://www.hewebgl.com/article/articledir/1
+36、gulp的网站{
+	(0)、官网 http://gulpjs.com/
+	(1)、 http://www.gulpjs.com.cn/docs/getting-started/
+	(2)、http://www.techug.com/gulp
+	(3)、http://www.gulpjs.com.cn/docs/getting-started/
+	(4)、http://www.w3ctech.com/topic/134
+	(5)、http://www.ydcss.com/archives/18
+}

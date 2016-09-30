@@ -1,0 +1,19 @@
+百度网盘账号：xah51603   密码：qianfeng1603@@
+
+一种 动态 样式 语言.(less)         http://www.bootcss.com/p/lesscss/
+
+less中文API	http://www.bootcss.com/p/lesscss/
+
+函数列表		http://lesscss.cn/functions/
+
+商品列表接口	http://datainfo.duapp.com/shopdata/datainfo.html	   
+
+廖雪峰的官方网站	http://www.liaoxuefeng.com/		(git)
+
+swiper 移动端插件	http://www.swiper.com.cn/
+
+touch		http://www.css88.com/doc/zeptojs_api/#touch
+
+touchAPI		http://cloudajs.org/docs/step4_API_Documentation#h3_54
+
+iscroll API		https://iiunknown.gitbooks.io/iscroll-5-api-cn/content/versions.html
